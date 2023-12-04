@@ -2,7 +2,7 @@
 
 To get reproducible results:
 
-Download the notebooks or git clone the repo
+Download the notebooks or git clone the repo. Downoad the train and test data from zindi too
 
 Ensure the files are in the same folder as the notebooks.
 
